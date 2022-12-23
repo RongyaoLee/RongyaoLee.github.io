@@ -23,12 +23,31 @@
     </item>
     
     <item>
+      <title>关于</title>
+      <link>https://rongyaolee.github.io/about/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rongyaolee.github.io/about/</guid>
+      <description>&lt;p&gt;该博客于2022/12/21由Shuijing建立，采用hugo驱动，Tokiwa模板（作者&lt;a href=&#34;https://github.com/heyeshuang&#34; title=&#34;heyeshuang&#34;&gt;heyeshuang&lt;/a&gt;），遵循CC4.0协议，常分享些信息整合/教程/随笔类文章，站外转载均已获原作者认可。&lt;/p&gt;
+&lt;h3 id=&#34;qa&#34;&gt;Q&amp;amp;A&lt;/h3&gt;
+&lt;p&gt;Q：为什么会用Shuijing这一名称呢？
+A：很久以前本来因为崇拜诸葛孔明想取卧龙（Wolong)，后又想到这个称号已广为人知，重合率较高，故取其师司马徽的别称水镜（Shuijing)
+Q：有什么兴趣爱好吗？
+A：Minecraft(ID:Qing_Zijn),读书，足球
+Q：擅长的信息类技能？
+A：C++（快忘干净咯），Scratch(lll￢ω￢)，Office三件套，微信公众号编辑
+Q：联系方式？
+A：QQ：2448044481 Wechat:17610613721&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>新冠溯源信息汇总1</title>
       <link>https://rongyaolee.github.io/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rongyaolee.github.io/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</guid>
-      <description>&lt;p&gt;#新冠溯源信息汇总1——流行病学调查&lt;/p&gt;
+      <description>&lt;h1 id=&#34;新冠溯源信息汇总1流行病学调查&#34;&gt;新冠溯源信息汇总1——流行病学调查&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本文转载自知乎yujiunang，已获得原作者授权&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -141,20 +160,6 @@
       
       <guid>https://rongyaolee.github.io/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://rongyaolee.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rongyaolee.github.io/about/</guid>
-      <description>&lt;p&gt;该博客创立于2022/12/21 由作者网课摸鱼所得（bushi)
-至于为何叫做Shuijing的博客，则是因为取用了司马徽的称号而得，小时因崇拜诸葛孔明则想取卧龙一号，又想到这个称号又广为人知，重合率高，故思索之下取水镜&lt;/p&gt;
-同时，我也是一位Minecraft重度爱好者，正版ID：Qing_Zijin,现活跃于Hypixel Server 和 Akashic Server
-该博客网页由Hugo框架驱动，使用Tokiwa主题，作者heyeshuang，遵循CC协议
-联系方式：QQ：2448044481 Wechat:17610613721&lt;/p&gt;
-</description>
     </item>
     
   </channel>
