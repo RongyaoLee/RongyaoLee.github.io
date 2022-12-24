@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Shuijing的博客</title>
+    <title>Posts on Shuijing&#39;s Blog</title>
     <link>https://rongyaolee.github.io/post/</link>
-    <description>Recent content in Posts on Shuijing的博客</description>
+    <description>Recent content in Posts on Shuijing&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language>
-    <copyright>Copyright © 2023</copyright>
+    <language>zh-cn</language>
+    <copyright>&amp;copy;Shuijing，&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.zh&#34;&gt;CC BY-SA&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rongyaolee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
