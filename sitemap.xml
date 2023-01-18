@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shuijing.life/blog/</loc>
+    <loc>https://blog.shuijing.life/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%B9%B4%E7%A5%9D%E8%AF%8D/</loc>
+    <loc>https://blog.shuijing.life/post/%E6%96%B0%E5%B9%B4%E7%A5%9D%E8%AF%8D/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/categories/</loc>
+    <loc>https://blog.shuijing.life/categories/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/post/</loc>
+    <loc>https://blog.shuijing.life/post/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/tags/</loc>
+    <loc>https://blog.shuijing.life/tags/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/categories/%E7%A5%9D%E8%AF%8D/</loc>
+    <loc>https://blog.shuijing.life/categories/%E7%A5%9D%E8%AF%8D/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.shuijing.life/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</loc>
+    <loc>https://blog.shuijing.life/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/tags/%E6%96%B0%E5%86%A0/</loc>
+    <loc>https://blog.shuijing.life/tags/%E6%96%B0%E5%86%A0/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB2/</loc>
+    <loc>https://blog.shuijing.life/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB2/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/about/</loc>
+    <loc>https://blog.shuijing.life/about/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</loc>
+    <loc>https://blog.shuijing.life/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/archives/</loc>
+    <loc>https://blog.shuijing.life/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuijing.life/blog/series/</loc>
+    <loc>https://blog.shuijing.life/series/</loc>
   </url>
 </urlset>
