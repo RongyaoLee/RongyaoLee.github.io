@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shuijing&#39;s Blog</title>
-    <link>https://rongyaolee.github.io/categories/</link>
+    <link>https://shuijing.life/blog/categories/</link>
     <description>Recent content in Categories on Shuijing&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy;Shuijing，&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.zh&#34;&gt;CC BY-SA&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rongyaolee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shuijing.life/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>祝词</title>
+      <link>https://shuijing.life/blog/categories/%E7%A5%9D%E8%AF%8D/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuijing.life/blog/categories/%E7%A5%9D%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>信息汇总</title>
-      <link>https://rongyaolee.github.io/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</link>
+      <link>https://shuijing.life/blog/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://rongyaolee.github.io/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</guid>
+      <guid>https://shuijing.life/blog/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</guid>
       <description></description>
     </item>
     

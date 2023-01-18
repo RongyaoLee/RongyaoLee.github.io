@@ -2,36 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rongyaolee.github.io/</loc>
+    <loc>https://shuijing.life/blog/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%B9%B4%E7%A5%9D%E8%AF%8D/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/categories/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/post/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/tags/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/categories/%E7%A5%9D%E8%AF%8D/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuijing.life/blog/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/categories/</loc>
+    <loc>https://shuijing.life/blog/tags/%E6%96%B0%E5%86%A0/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/post/</loc>
+    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB2/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/tags/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rongyaolee.github.io/categories/%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rongyaolee.github.io/tags/%E6%96%B0%E5%86%A0/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rongyaolee.github.io/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB2/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rongyaolee.github.io/about/</loc>
+    <loc>https://shuijing.life/blog/about/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</loc>
+    <loc>https://shuijing.life/blog/post/%E6%96%B0%E5%86%A0%E6%BA%AF%E6%BA%90%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB1/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/archives/</loc>
+    <loc>https://shuijing.life/blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rongyaolee.github.io/series/</loc>
+    <loc>https://shuijing.life/blog/series/</loc>
   </url>
 </urlset>
