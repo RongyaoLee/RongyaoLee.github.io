@@ -353,6 +353,10 @@ onload='renderMathInElement(document.body);'></script>
     rel="stylesheet"
     href="https://unpkg.com/@waline/client@v2/dist/waline.css"
   />
+<link
+      rel="stylesheet"
+      href="https://unpkg.com/katex@v0.16/dist/katex.min.css"
+    />
   
 </head>
 <body>
@@ -360,10 +364,22 @@ onload='renderMathInElement(document.body);'></script>
   <div id="waline"></div>
   <script type="module">
     import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+    import katex from 'https://unpkg.com/katex@0.16/dist/katex.mjs';
 
     init({
       el: '#waline',
       serverURL: 'https://shuijing-s-blog-exskm7y5i-rongyaolee.vercel.app',
+      path: '/',
+        lang: 'en-US',
+        texRenderer: (blockMode, tex) =>
+          katex.renderToString(tex, {
+            displayMode: blockMode,
+            throwOnError: false,
+
+    emoji: [
+      '//unpkg.com/@waline/emojis@1.1.0/bmoji',
+      '//unpkg.com/@waline/emojis@1.1.0/bilibili',
+    ],
     });
   </script>
 </body>
